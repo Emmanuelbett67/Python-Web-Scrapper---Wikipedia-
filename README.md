@@ -1,2 +1,2 @@
-# Python-Web-Scrapper---Wikipedia-
+# Python-Web-Scrapper--Wikipedia-
 Extracting the table data from the Wikipedia page.
